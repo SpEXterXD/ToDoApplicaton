@@ -1,6 +1,6 @@
-# todo_application
+# TODO Application
 
-A new Flutter project.
+A Todo Application to Keep Your Daily Activities in Order
 
 ## Getting Started
 
