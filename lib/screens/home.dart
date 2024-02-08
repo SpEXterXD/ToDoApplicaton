@@ -103,7 +103,7 @@ class _HomeState extends State<Home> {
                 child: ElevatedButton(
                   child: Text(
                     '+',
-                    style: TextStyle(fontSize: 40),
+                    style: TextStyle(fontSize: 40, color: Colors.white),
                   ),
                   onPressed: () {
                     _addToDoItem(_todoController.text);
